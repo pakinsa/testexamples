@@ -7,6 +7,6 @@
 #### This is main project
 
 
-## Project 1 [Project1](https://github.com/pakinsa/testexamples/tree/main/project1)
-## Project 2 
-## Project 3
+## Project 1: [Project1](https://github.com/pakinsa/testexamples/tree/main/project1)
+## Project 2: [Project2](https://github.com/pakinsa/testexamples/tree/main/project2)
+## Project 3: [Project3](https://github.com/pakinsa/testexamples/tree/main/project3)
