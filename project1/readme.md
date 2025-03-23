@@ -1,6 +1,8 @@
 # This is Project 1
 
-[bedrooms](/Users/user/Desktop/testexamples/Project1/images/00_bedrooms_design.png)
+![alt text](images/00_bedrooms_design.png "bedrooms")
 
 
-[casual](/Users/user/Desktop/testexamples/Project1/images/01_casual_palm.png)
+![alt text](images/01_casual_palm.png "casual")
+
+
